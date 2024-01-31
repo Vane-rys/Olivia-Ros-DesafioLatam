@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-navbar-propio{
+    background-color: #373a3c;
+}
+
+header{
+    background-image: url(../img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-turquesa{
+    background-color: #17A2B8;
+}
+
+.bg-footer{
+    background-color: #0F0F0F;
+}
